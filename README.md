@@ -1,0 +1,2 @@
+# KataStd
+anything code
